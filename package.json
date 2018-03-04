@@ -5,6 +5,7 @@
     "bootstrap": "^4.0.0-alpha.6",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.2",
+    "mongoose": "^5.0.7",
     "request": "^2.83.0"
   },
   "name": "top-chef",
